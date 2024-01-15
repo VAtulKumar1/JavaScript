@@ -17,3 +17,6 @@ console.log(isNumberNumber);
 
 
 // "0a" to number => NaN
+
+
+
